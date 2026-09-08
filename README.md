@@ -1,28 +1,30 @@
-# Computer-Parts-Management-System-
-A **Java-based desktop application** for managing computer parts inventory, customers, and employees. Developed as a university course project.
-## 📌 Features  
-- **User authentication** (Login/Registration for Customers & Admins).  
-- **Inventory management** (Add/Edit/Delete products).  
-- **Shopping cart** with filtering (by price, component, manufacturer).  
-- **SQLite database** integration (JDBC).  
-- **MVC architecture**.  
+# 🖥️ Computer Parts Project — Documentation Index
 
-## 🛠 Technologies  
-- **Java SE** (Core logic)  
-- **SQLite** (Database)  
-- **JDBC** (Database connection)  
-- **NetBeans IDE**    
+![Tech](https://img.shields.io/badge/Tech-Java%20%7C%20SQLite-blue)
+![Project](https://img.shields.io/badge/Project-Documentation%20Index-orange)
 
-## 📂 Project Structure  
-src/
-├── app/ # Main classes (Login, Registration)
-├── app/Classes/ # Models (CompParts, Users, etc.)
-├── app/pictures/ # GUI images
-lib/ # Libraries (sqlite-jdbc.jar)
-## 🚀 Installation  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/mihal3w/Computer-Parts-Management-System.git
-   Open in NetBeans.
-Add sqlite-jdbc-3.32.3.2.jar (under lib/).
-Run LogIn.java.
+## 💡 Overview
+
+This repository is a documentation entry point for the Computer Parts Management System. The application source is maintained in the dedicated project repository below.
+
+## 📌 Project
+
+[**Computer Parts Management System →**](https://github.com/tsvetomirdimitrovv/computer-parts-project)
+
+A Java desktop coursework application with login and registration, customer and employee screens, inventory management, a shopping cart, and a local SQLite database.
+
+## 🛠 Tech Stack
+
+**Referenced application:** Java SE, Swing, SQLite, JDBC, NetBeans, and Ant.
+
+## 🚀 Explore the Project
+
+Visit the [application repository](https://github.com/tsvetomirdimitrovv/computer-parts-project) for its source files, database, and setup instructions.
+
+## 🧪 Project Status
+
+**Documentation Only.** This repository contains a README, not a separate copy of the application. Build and run instructions belong to the linked source repository.
+
+## 👨‍💻 Author
+
+[Tsvetomir Dimitrov](https://github.com/tsvetomirdimitrovv)
